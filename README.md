@@ -12,7 +12,7 @@ A comprehensive Streamlit web application that combines deep learning-based plan
 
 ## 🚀 Live Demo
 
-[Deploy to Streamlit Cloud](https://streamlit.io/cloud)
+[Deployed to Streamlit Cloud](https://plant-diseases-detector.streamlit.app/)
 
 ## 🛠️ Technology Stack
 
