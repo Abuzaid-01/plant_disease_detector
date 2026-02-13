@@ -47,7 +47,7 @@ plant-disease-streamlit/
 
 1. **Clone the repository**
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/Abuzaid-01/plant_disease_detector>
 cd plant-disease-streamlit
 ```
 
@@ -129,8 +129,3 @@ See `requirements.txt` for full dependency list:
 
 This project is licensed under the MIT License.
 
-## 🙏 Acknowledgments
-
-- Built with [Streamlit](https://streamlit.io/)
-- Powered by [Groq](https://groq.com/) AI
-- Deep learning with [PyTorch](https://pytorch.org/)
